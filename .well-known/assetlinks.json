@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hheimerd.twa",
+      "sha256_cert_fingerprints": [
+        "19:D1:4A:59:DB:2A:02:B9:E4:C1:97:93:78:CB:DA:3B:FC:B6:7C:0B:B0:9C:54:8E:E8:6C:10:DD:54:A0:AF:37"
+      ]
+    }
+  }
+]
